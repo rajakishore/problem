@@ -1,0 +1,11 @@
+c:\users\raja.kishore.tranglo\source\repos\problem\problem\bin\Debug\problem.exe.config
+c:\users\raja.kishore.tranglo\source\repos\problem\problem\bin\Debug\problem.exe
+c:\users\raja.kishore.tranglo\source\repos\problem\problem\bin\Debug\problem.pdb
+c:\users\raja.kishore.tranglo\source\repos\problem\problem\bin\Debug\Newtonsoft.Json.dll
+c:\users\raja.kishore.tranglo\source\repos\problem\problem\bin\Debug\Newtonsoft.Json.xml
+c:\users\raja.kishore.tranglo\source\repos\problem\problem\obj\Debug\problem.csprojResolveAssemblyReference.cache
+c:\users\raja.kishore.tranglo\source\repos\problem\problem\obj\Debug\problem.csproj.CoreCompileInputs.cache
+c:\users\raja.kishore.tranglo\source\repos\problem\problem\obj\Debug\problem.csproj.CopyComplete
+c:\users\raja.kishore.tranglo\source\repos\problem\problem\obj\Debug\problem.exe
+c:\users\raja.kishore.tranglo\source\repos\problem\problem\obj\Debug\problem.pdb
+c:\users\raja.kishore.tranglo\source\repos\problem\problem\bin\Debug\Content\data.json
